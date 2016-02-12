@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/indieforger/micro-pack/issues"
   },
-  "homepage": "https://github.com/indieforger/micro-pack#readme"
+  "homepage": "https://github.com/indieforger/micro-pack#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
